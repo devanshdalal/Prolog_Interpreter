@@ -1,0 +1,10 @@
+This project is developed using OCamlYacc and OCamlLex as part of CSL302 assignment.
+This interpreter supports Basic plolog relational Syntax.
+
+software Reqirements:
+	OCaml environment 
+	NOTE: No Running prolog environment is required. 
+
+Commands:
+	type "make" and press ENTER to compile the project.
+	execute command ./run <file containing perl code>	
